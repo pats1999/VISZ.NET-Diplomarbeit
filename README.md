@@ -1,2 +1,2 @@
-# VISZ.NET-Diplomarbeit
-Diplomarbeits public Docs
+# VISZ.NET-Diploma thesis
+Public Docs
